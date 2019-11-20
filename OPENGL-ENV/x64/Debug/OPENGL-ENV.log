@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\bapti\Projects\OPENGL-ENV\OPENGL-ENV\main.cpp(51,72): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+C:\Users\bapti\Projects\OPENGL-ENV\OPENGL-ENV\main.cpp(73,14): warning C4305: '+=' : troncation de 'double' à 'float'
+C:\Users\bapti\Projects\OPENGL-ENV\OPENGL-ENV\main.cpp(78,14): warning C4305: '+=' : troncation de 'double' à 'float'
+C:\Users\bapti\Projects\OPENGL-ENV\OPENGL-ENV\main.cpp(83,14): warning C4305: '+=' : troncation de 'double' à 'float'
+  OPENGL-ENV.vcxproj -> C:\Users\bapti\Projects\OPENGL-ENV\x64\Debug\OPENGL-ENV.exe
